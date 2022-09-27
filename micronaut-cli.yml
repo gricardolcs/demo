@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.example
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [annotation-api, app-name, data, data-jpa, flyway, hibernate-jpa, http-client, jackson-databind, java, java-application, jdbc-hikari, junit, kafka, logback, lombok, maven, mockito, openapi, postgres, properties, readme, shade, spring, spring-boot, spring-data-jpa, spring-web, swagger-ui, test-resources, undertow-server, vertx-pg-client]
